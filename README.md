@@ -10,3 +10,7 @@ scala
 https://github.com/electron
 https://github.com/electron/electron-quick-start
 https://electronjs.org/docs/tutorial/quick-start
+
+
+https://www.jianshu.com/p/b8392151c0cd
+https://github.com/futantan/atom
